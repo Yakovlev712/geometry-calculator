@@ -9,4 +9,4 @@ def area(self)->float:
   return self.width * self.height
 
   
-#Impliment Rectangle class
+
