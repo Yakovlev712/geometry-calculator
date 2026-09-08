@@ -1,2 +1,2 @@
-# geometry-calculator-2
+# geometry-calculator
 chush
